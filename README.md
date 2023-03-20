@@ -16,5 +16,5 @@ Welcome to your new Address Book where you can create new entries, edit, and del
 - [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 # Main Page / Entries
-![HomePage](HomePage.JPG)
-![Index](Index.JPG)
+![HomePage](HomeScreen.PNG)
+![Index](Index.PNG)
